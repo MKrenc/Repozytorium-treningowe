@@ -1,1 +1,5 @@
-Wersja z głównej gałęzi
+<<<<<<< HEAD
+Wersja zgodna
+=======
+Wersja zgodna
+>>>>>>> nowa-gałąź

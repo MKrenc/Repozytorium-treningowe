@@ -1,1 +1,3 @@
 tylko plik i plik3 obchodzą githuba
+
+wersja z mastera prim prim
